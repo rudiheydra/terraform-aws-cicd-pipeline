@@ -1,6 +1,6 @@
 
 
-# terraform-aws-cicd-pipeline
+# CI/CD on AWS with CodePipeline and Terraform by [Davo'clock](https://www.youtube.com/watch?v=JwTP3wZHYnU)
 
 ## Application Architecture
 ![Capture](https://user-images.githubusercontent.com/53549619/180604356-230d9f15-f51b-4c4e-a2df-a25bcce80a3e.PNG)
